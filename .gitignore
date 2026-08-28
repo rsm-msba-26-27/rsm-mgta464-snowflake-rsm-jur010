@@ -6,3 +6,9 @@ __pycache__/
 Makefile
 justfile
 config.yaml
+.claude/.last-test-time
+.claude/settings.local.json
+.claude/bin/
+.claude/usage-log/.github-user
+data/supplier_case.csv
+data/2021_Gaz_zcta_national.txt

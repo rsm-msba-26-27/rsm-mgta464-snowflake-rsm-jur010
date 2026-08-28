@@ -4,6 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
   "ipykernel>=6", # enables the VS Code / Jupyter kernel picker
+  "psycopg2-binary>=2.9.12",
   "python-dotenv>=1.2.3",
   "snowflake-connector-python>=4.7.2",
 ]
